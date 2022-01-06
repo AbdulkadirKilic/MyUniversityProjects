@@ -1,0 +1,11 @@
+piece Ali Veli 11112222 100 5
+piece Mutlu Demir 33445566 250 8
+hourly Can Tuz 88889999 40 50
+hourly Ayse Can 33337777 20 100
+piece Cem Tunc 66665555 500 10
+hourly Azime Eroglu 11111111 100 20
+piece Zeki Mutlu 22222222 50 33
+piece Enes Batur 99999999 99 99
+hourly Baris Ozcan 78787878 88 77
+hourly Demet Yurdakul 00000000 10 50
+piece Ahmet Uslu 15975325 25 40
